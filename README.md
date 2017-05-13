@@ -1,4 +1,4 @@
-# Spell-check
+# Spelling-and-grammar-check
 Python code with GUI for spelling check and grammar check. 
 
 
